@@ -1,1 +1,7 @@
-// Write your package code here!
+Package.on_use(function (api) {
+
+
+});
+
+
+
